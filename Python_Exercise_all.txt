@@ -1,0 +1,133 @@
+Solve the Problem statements given below.
+
+String Exercises:
+1. Write a Python program to count the number of characters in a string.
+2. Write a Python program to reverse a string.
+3. Write a Python program to check if a string is a palindrome.
+4. Write a Python program to remove all the vowels from a string.
+5. Write a Python program to find the first non-repeating character in a string.
+6. Write a Python program to capitalize the first letter of each word in a string.
+7. Write a Python program to check if a string is an anagram of another string.
+8. Write a Python program to find the most frequent character in a string.
+9. Write a Python program to check if a string is a valid email address.
+10. Write a Python program to find the length of the longest substring without repeating characters.
+
+List Exercises:
+1. Write a Python program to find the sum of all elements in a list.
+2. Write a Python program to find the maximum and minimum elements in a list.
+3. Write a Python program to remove duplicates from a list.
+4. Write a Python program to check if a list is sorted in ascending order.
+5. Write a Python program to find the second largest element in a list.
+6. Write a Python program to sort a list of strings in alphabetical order.
+7. Write a Python program to find the common elements between two lists.
+8. Write a Python program to remove the nth occurrence of an element from a list.
+9. Write a Python program to find the difference between two lists.
+10. Write a Python program to remove the elements of a list that are divisible by 3.
+
+Tuple Exercises:
+1. Write a Python program to find the length of a tuple.
+2. Write a Python program to concatenate two tuples.
+3. Write a Python program to convert a tuple to a list.
+4. Write a Python program to find the index of an element in a tuple.
+5. Write a Python program to check if an element exists in a tuple.
+6. Write a Python program to count the number of occurrences of an element in a tuple.
+7. Write a Python program to find the maximum and minimum elements in a tuple.
+8. Write a Python program to reverse a tuple.
+9. Write a Python program to check if all elements in a tuple are the same.
+10. Write a Python program to create a new tuple with the elements from two existing tuples.
+
+Set Exercises:
+1. Write a Python program to find the union of two sets.
+2. Write a Python program to find the intersection of two sets.
+3. Write a Python program to check if a set is a subset of another set.
+4. Write a Python program to remove duplicate elements from a set.
+5. Write a Python program to add an element to a set.
+6. Write a Python program to remove an element from a set.
+7. Write a Python program to find the difference between two sets.
+8. Write a Python program to check if two sets are disjoint.
+9. Write a Python program to find the symmetric difference between two sets.
+10. Write a Python program to check if a set is empty.
+
+Dictionary Exercises:
+1. Write a Python program to iterate over a dictionary and print its keys and values.
+2. Write a Python program to check if a key exists in a dictionary.
+3. Write a Python program to get the value associated with a key in a dictionary.
+4. Write a Python program to remove a key from a dictionary.
+5. Write a Python program to sort a dictionary by its values.
+6. Write a Python program to merge two dictionaries.
+7. Write a Python program to count the frequency of each element in a dictionary.
+8. Write a Python program to find the length of a dictionary.
+9. Write a Python program to check if a dictionary is empty.
+10. Write a Python program to find the keys with the maximum and minimum values in a dictionary.
+
+Range Exercises:
+1. Write a Python program to iterate over a range of numbers and print them.
+2. Write a Python program to find the sum of all numbers in a range.
+3. Write a Python program to print all even numbers in a given range.
+4. Write a Python program to print all odd numbers in a given range.
+5. Write a Python program to find the average of all numbers in a range.
+6. Write a Python program to check if a number is present in a given range.
+7. Write a Python program to reverse a range of numbers and print them.
+8. Write a Python program to find the product of all numbers in a range.
+9. Write a Python program to print the squares of all numbers in a range.
+10. Write a Python program to print the cube of all numbers in a range.
+
+If-Else Loop Exercises:
+1. Write a Python program to check if a number is positive, negative, or zero.
+2. Write a Python program to check if a number is even or odd.
+3. Write a Python program to check if a year is a leap year or not.
+4. Write a Python program to find the maximum of three numbers using if-else.
+5. Write a Python program to check if a number is prime.
+6. Write a Python program to check if a number is divisible by both 3 and 5.
+7. Write a Python program to check if a character is a vowel or consonant.
+8. Write a Python program to check if a given string is a palindrome using if-else.
+9. Write a Python program to determine the largest among three numbers using nested if-else.
+10. Write a Python program to check if a triangle is equilateral, isosceles, or scalene based on its side lengths using if-else.
+
+For Loop Exercises:
+1. Write a Python program to print the numbers from 1 to 10 using a for loop.
+2. Write a Python program to calculate the sum of all numbers in a list using a for loop.
+3. Write a Python program to find the factorial of a number using a for loop.
+4. Write a Python program to print all the even numbers between 1 and 50 using a for loop.
+5. Write a Python program to iterate over a string and print each character using a for loop.
+6. Write a Python program to iterate over a list of tuples and print each element using a for loop.
+7. Write a Python program to find the largest element in a list using a for loop.
+8. Write a Python program to check if all elements in a list are even using a for loop.
+9. Write a Python program to find the common elements between two lists using a for loop.
+10. Write a Python program to calculate the sum of the digits of a number using a for loop.
+
+While Loop Exercises:
+1. Write a Python program to print the numbers from 1 to 10 using a while loop.
+2. Write a Python program to calculate the sum of all numbers from 1 to 100 using a while loop.
+3. Write a Python program to find the factorial of a number using a while loop.
+4. Write a Python program to print all the even numbers between 1 and 50 using a while loop.
+5. Write a Python program to iterate over a string and print each character using a while loop.
+6. Write a Python program to iterate over a list of tuples and print each element using a while loop.
+7. Write a Python program to find the largest element in a list using a while loop.
+8. Write a Python program to check if all elements in a list are even using a while loop.
+9. Write a Python program to find the common elements between two lists using a while loop.
+10. Write a Python program to calculate the sum of the digits of a number using a while loop.
+
+Break Statement Exercises:
+1. Write a Python program to find the first occurrence of a number in a list using a for loop and break statement.
+2. Write a Python program to search for a specific element in a list using a while loop and break statement.
+3. Write a Python program to find the prime numbers between 1 and 100 using a for loop and break statement.
+4. Write a Python program to check if a number is present in a list using a while loop and break statement.
+5. Write a Python program to find the largest palindrome number in a given range using a for loop and break statement.
+6. Write a Python program to find the first negative number in a list using a while loop and break statement.
+7. Write a Python program to print the elements of a list until a specific condition is met using a for loop and break statement.
+8. Write a Python program to search for a specific character in a string using a while loop and break statement.
+9. Write a Python program to find the first occurrence of a vowel in a string using a for loop and break statement.
+10. Write a Python program to find the index of the first occurrence of a substring in a string using a while loop and break statement.
+
+Continue Statement Exercises:
+1. Write a Python program to print all the even numbers between 1 and 20 except for the number 10 using a for loop and continue statement.
+2. Write a Python program to print the elements of a list skipping the negative numbers using a while loop and continue statement.
+3. Write a Python program to print the first 10 multiples of 3 except for the number 9 using a for loop and continue statement.
+4. Write a Python program to iterate over a string and print only the consonants using a for loop and continue statement.
+5. Write a Python program to print the elements of a list skipping the even numbers using a while loop and continue statement.
+6. Write a Python program to find the sum of all numbers between 1 and 100, excluding the multiples of 5 using a for loop and continue statement.
+7. Write a Python program to print the uppercase letters in a string using a while loop and continue statement.
+8. Write a Python program to print the elements of a list skipping the elements divisible by 3 using a for loop and continue statement.
+9. Write a Python program to iterate over a list of tuples and print only the tuples with a specific condition using a while loop and continue statement.
+10. Write a Python program to print the numbers from 1 to 50, skipping the multiples of 7 using a for loop and continue statement.
