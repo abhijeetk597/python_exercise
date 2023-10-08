@@ -1,10 +1,11 @@
-# 1. Write a Python program to count the number of characters in a string.
 """
+# 1. Write a Python program to count the number of characters in a string.
+-------------------------
     def countchar(s):
         return len(s)
     s = input('Enter string to characters: ')
     print('There are',countchar(s),' characters in your string.')
-
+============================================================================
 # 2. Write a Python program to reverse a string.
     def rev_string(s):
         return s[::-1]
